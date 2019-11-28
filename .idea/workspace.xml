@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08358327-e6bc-4607-83ac-ff5fa6694f00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeReview2/IntervalWorkout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeReview2/IntervalWorkout.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IntervalWorkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntervalWorkout.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.IntervalWorkout">
     <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise" />
       <module name="CodeReview2" />
@@ -48,8 +47,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IntervalWorkout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntervalWorkout" />
+      <module name="CodeReview2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntervalWorkout" />
         <item itemvalue="Application.Exercise" />
       </list>
     </recent_temporary>
